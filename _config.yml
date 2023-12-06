@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username: zack781
 
 # Build settings
-remote_theme: beautiful-jekyll-theme
+theme: beautiful-jekyll-theme
 
 navbar-links:
   About Me: "aboutme"
