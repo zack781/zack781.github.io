@@ -1,18 +1,14 @@
 ---
 layout: page
-title: About
+title: 👋 Hi, I'm Zack
+subtitle: NYU '25, Computer Engineer
 permalink: /aboutme/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm currently a student at New York University majoring in _Computer Engineering_ with a minor in _Applied Physics_. My interest lie in real-time application, cloud computing, and networking. I am aspired to build new technology that can make the world a better place.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+In my free time, I enjoy reading Medium articles and watching documentaties.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+**Learn More About My:**
+[Projects](http://localhost:4000/myprojects) - [Experience](http://localhost:4000/myexperience) - [GLASS Components](http://localhost:4000/glasscomponents)
 
-
-[jekyll-organization]: https://github.com/jekyll
