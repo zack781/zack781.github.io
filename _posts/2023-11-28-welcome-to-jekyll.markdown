@@ -4,26 +4,30 @@ title:  "Real-Time Audio Transport Plugin"
 date:   2023-11-28 16:23:13 -0500
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+[https://github.com/zack781/corelink-audio](https://github.com/zack781/corelink-audio)
 
-`YEAR-MONTH-DAY-title.MARKUP`
+This project aims to develope a high fidelity low latency audio transport plugin (VST,AU) using the Corelink network framework and JUCE audio framework.
+Dependencies for Development:
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+- [Corelink c++](https://cpp-docs.hsrn.nyu.edu/)
+- [oneTBB](https://github.com/oneapi-src/oneTBB)
+- [JUCE](https://juce.com)
 
-Jekyll also offers powerful support for code snippets:
+Header:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+> ./corelink-client/cpp/include
+> ./external-dependencies/cpp/asio-cpp/v1.24.0
+> ./external-dependencies/cpp/rapidjson
+> ./external-dependencies/cpp
+> ./oneTBB/build/my_installed_onetbb/include/oneapi
+> ./oneTBB/build/my_installed_onetbb/include
+> ./oneTBB/build/my_installed_onetbb/include/tbb
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Library:
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+> ./oneTBB/build//my_installed_onetbb/lib
+
+Current source code can be found in ./testing_box
+Existing support only for MAC. Window and Linux versions will be available in the near future.
+More docs to come.
