@@ -5,7 +5,6 @@ subtitle: Things I recently worked on
 permalink: /myprojects/
 ---
 
-
 **Real-time Audio Transport Plugin**
 
 [https://github.com/zack781/corelink-audio](https://github.com/zack781/corelink-audio)
@@ -36,13 +35,17 @@ The access control policy is implemented in Solidity smart contract using the Op
 ![code1](../assets/fb-clone1.png){: style="width: 45%;" :}
 ![code1](../assets/fb-clone2.png){: style="float:left; width: 45%;" :}
 
+<<<<<<< HEAD
 {: style="clear:both;" :}
+=======
+{: style="clear:both; height:0px;" :}
+>>>>>>> 66763ee0c77bfece7f9447c7912ba56b1e38d24f
 
 **Flight Booker**
 
 [https://github.com/zack781/odin-flight-booker](https://github.com/zack781/odin-flight-booker)
 
-**Real-Time Subtitling Glasses**
+**Wireless Real-Time Subtitling Glasses**
 
 [https://github.com/zack781/speech_to_text_server](https://github.com/zack781/speech_to_text_server/tree/main/backend)
 
