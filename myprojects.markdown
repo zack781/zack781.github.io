@@ -35,11 +35,7 @@ The access control policy is implemented in Solidity smart contract using the Op
 ![code1](../assets/fb-clone1.png){: style="width: 45%;" :}
 ![code1](../assets/fb-clone2.png){: style="float:left; width: 45%;" :}
 
-<<<<<<< HEAD
 {: style="clear:both;" :}
-=======
-{: style="clear:both; height:0px;" :}
->>>>>>> 66763ee0c77bfece7f9447c7912ba56b1e38d24f
 
 **Flight Booker**
 
