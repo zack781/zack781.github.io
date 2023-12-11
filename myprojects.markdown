@@ -51,7 +51,7 @@ The access control policy is implemented in Solidity smart contract using the Op
 
 --
 
-**Real-Time Subtitling Glasses**
+**Wireless Real-Time Subtitling Glasses**
 
 [https://github.com/zack781/speech_to_text_server](https://github.com/zack781/speech_to_text_server/tree/main/backend)
 
