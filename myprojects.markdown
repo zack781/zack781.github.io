@@ -9,6 +9,16 @@ permalink: /myprojects/
 
 [https://github.com/zack781/corelink-audio](https://github.com/zack781/corelink-audio)
 
+![code1](../assets/audio1.jpg){: style="width: 45%;" :}
+![code2](../assets/audio2.png){: style="float:left; width: 45%;" :}
+![code3](../assets/audio3.png){: style="float:left; width: 45%;" :}
+![code4](../assets/audio4.png){: style="float:right; width: 45%;" :}
+![code4](../assets/audio5.png){: style="float:right; width: 45%;" :}
+![code4](../assets/audio6.jpg){: style="float:left; width: 45%;" :}
+![code4](../assets/audio7.png){: style="float:right; width: 45%;" :}
+
+{: style="clear:both;" :}
+
 **Decentralized Discretionary Access Control Policy on Blockchain Network**
 
 [https://github.com/zack781/Network-Framework-with-Transparent-Access-Control](https://github.com/zack781/Network-Framework-with-Transparent-Access-Control)
