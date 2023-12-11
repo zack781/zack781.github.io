@@ -58,6 +58,7 @@ Rust Control_Server
 ![code1](../assets/glass1.jpg){: style="width: 45%;" :}
 ![code2](../assets/glass2.jpg){: style="float:left; width: 45%;" :}
 ![code3](../assets/glass3.png){: style="float:left; width: 45%;" :}
+![code4](../assets/glass4.jpg){: style="float:right; width: 45%;" :}
 
 {: style="clear:both; height:0px;" :}
 
