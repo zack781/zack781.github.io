@@ -16,7 +16,7 @@ New York, NY, US
 _June 2022 - Present_
 {: style="margin: 0rem;" :}
 
-[_More details_]({% link hsrnexperience.md %})
+[_More details_](https://vip.hsrn.nyu.edu/2023/04/02/zack-nguyen.html)
 {: style="margin-top: 0.5em;" :}
 
 --
@@ -31,7 +31,7 @@ Hanoi, Vietnam
 _June 2023 - December 2023_
 {: style="margin: 0rem" :}
 
-[_More details_]({% link hsrnexperience.md %})
+[_More details_](https://www.rakuna.co)
 {: style="margin-top: 0.5em;" :}
 
 --
@@ -46,5 +46,5 @@ New York, NY, US
 _August 2023 - Present_
 {: style="margin: 0rem;" :}
 
-[_More details_]({% link hsrnexperience.md %})
+[_More details_](https://www.linkedin.com/feed/update/urn:li:activity:7131315251291017216?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7131315251291017216%29)
 {: style="margin-top: 0.5em;" :}
