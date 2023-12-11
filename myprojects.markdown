@@ -28,9 +28,9 @@ This Dapp aims to impose a transparency standard where the access control policy
 The access control policy is implemented in Solidity smart contract using the OpenZeppelin’s role based access control library. In addition, the control server, which was written in Rust for optimized performance, uses the Web3 crates to interact with the blockchain network and the smart contract functions. The React Dashboard also uses the Web3.js library to retrieve the public states through the use of Solidity events.
 
 3 main components were implemented:
-Policy.sol
-React DASHBOARD
-Rust Control_Server
+- Policy.sol
+- React DASHBOARD
+- Rust Control_Server
 
 --
 
