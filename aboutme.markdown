@@ -23,5 +23,5 @@ I have always admired the way in which physical laws and theories come to exist.
 In my free time, I enjoy reading Medium articles and watching documentaries.
 
 **_Learn More About My:_**
-[Projects](http://localhost:4000/myprojects) - [Experience](http://localhost:4000/myexperience) - [GLASS Components](http://localhost:4000/glasscomponents)
+[Projects](https://zack781.github.io/myprojects) - [Experience](https://zack781.github.io/myexperience) - [GLASS Components](https://zack781.github.io/glasscomponents)
 
