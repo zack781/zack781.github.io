@@ -5,13 +5,10 @@ subtitle: Things I recently worked on
 permalink: /myprojects/
 ---
 
---
 
 **Real-time Audio Transport Plugin**
 
 [https://github.com/zack781/corelink-audio](https://github.com/zack781/corelink-audio)
-
---
 
 **Decentralized Discretionary Access Control Policy on Blockchain Network**
 
@@ -32,8 +29,6 @@ The access control policy is implemented in Solidity smart contract using the Op
 - React DASHBOARD
 - Rust Control_Server
 
---
-
 **Facebook Clone**
 
 [https://github.com/zack781/zack-fb-clone](https://github.com/zack781/zack-fb-clone)
@@ -41,15 +36,11 @@ The access control policy is implemented in Solidity smart contract using the Op
 ![code1](../assets/fb-clone1.png){: style="width: 45%;" :}
 ![code1](../assets/fb-clone2.png){: style="float:left; width: 45%;" :}
 
-{: style="clear:both; height:0px;" :}
-
---
+{: style="clear:both;" :}
 
 **Flight Booker**
 
 [https://github.com/zack781/odin-flight-booker](https://github.com/zack781/odin-flight-booker)
-
---
 
 **Real-Time Subtitling Glasses**
 
@@ -60,26 +51,20 @@ The access control policy is implemented in Solidity smart contract using the Op
 ![code3](../assets/glass3.png){: style="float:left; width: 45%;" :}
 ![code4](../assets/glass4.jpg){: style="float:right; width: 45%;" :}
 
-{: style="clear:both; height:0px;" :}
+{: style="clear:both;" :}
 
---
-
-**Attendance Tracker**
+**Attendance Tracker** 
 
 [https://github.com/zack781/attendance_tracker/](https://github.com/zack781/attendance_tracker/tree/master)
 
 ![code1](../assets/atracker1.png){: style="width: 47%;" :}
 ![code1](../assets/atracker2.png){: style="float:left; width: 47%;" :}
 
-{: style="clear:both; height:0px;" :}
-
---
+{: style="clear:both;" :}
 
 **Mini RSA**
 
 [https://github.com/zack781/Mini-RSA/tree/master](https://github.com/zack781/Mini-RSA/tree/master)
-
---
 
 **Mini AES**
 
