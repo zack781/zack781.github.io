@@ -5,13 +5,9 @@ subtitle: Things I recently worked on
 permalink: /myprojects/
 ---
 
---
-
 **Real-time Audio Transport Plugin**
 
 [https://github.com/zack781/corelink-audio](https://github.com/zack781/corelink-audio)
-
---
 
 **Decentralized Discretionary Access Control Policy on Blockchain Network**
 
@@ -32,8 +28,6 @@ The access control policy is implemented in Solidity smart contract using the Op
 - React DASHBOARD
 - Rust Control_Server
 
---
-
 **Facebook Clone**
 
 [https://github.com/zack781/zack-fb-clone](https://github.com/zack781/zack-fb-clone)
@@ -43,13 +37,9 @@ The access control policy is implemented in Solidity smart contract using the Op
 
 {: style="clear:both; height:0px;" :}
 
---
-
 **Flight Booker**
 
 [https://github.com/zack781/odin-flight-booker](https://github.com/zack781/odin-flight-booker)
-
---
 
 **Wireless Real-Time Subtitling Glasses**
 
@@ -62,8 +52,6 @@ The access control policy is implemented in Solidity smart contract using the Op
 
 {: style="clear:both; height:0px;" :}
 
---
-
 **Attendance Tracker**
 
 [https://github.com/zack781/attendance_tracker/](https://github.com/zack781/attendance_tracker/tree/master)
@@ -73,13 +61,9 @@ The access control policy is implemented in Solidity smart contract using the Op
 
 {: style="clear:both; height:0px;" :}
 
---
-
 **Mini RSA**
 
 [https://github.com/zack781/Mini-RSA/tree/master](https://github.com/zack781/Mini-RSA/tree/master)
-
---
 
 **Mini AES**
 
