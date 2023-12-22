@@ -7,7 +7,7 @@ permalink: /myprojects/
 
 ## Mission Statement
 
-At the intersection of innovation and responsibility, my mission is to leverage our extensive project experience in real-time audio, blockchain-based access control, web development, and security to address the core challenges outlined by the Enhance Virtual Reality (EVR) and Secure Cyberspace (SC) initiatives, as defined by the National Academy of Engineering's Grand Challenges. Guided by a commitment to sustainable development, our endeavors align with the United Nations' Sustainability Goal 9: Industry, Innovation, and Infrastructure.
+At the intersection of innovation and responsibility, my mission is to leverage my extensive project experience in real-time audio, blockchain-based access control, web development, and security to address the core challenges outlined by the Enhance Virtual Reality (EVR) and Secure Cyberspace (SC) initiatives, as defined by the National Academy of Engineering's Grand Challenges. Guided by a commitment to sustainable development, my endeavors align with the United Nations' Sustainability Goal 9: Industry, Innovation, and Infrastructure.
 
 ![code1](../assets/un_goals.webp){: style="width: 49%;" :}
 ![code2](../assets/nae.jpg){: style="float:left; width: 49%;" :}
