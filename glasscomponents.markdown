@@ -31,7 +31,7 @@ _KAIST University_
 
 
 ## Leadership
-{: style="text-align: center; margin-top: 37%;" :}
+{: style="text-align: center; margin-top: 31%;" :}
 
 {: style="clear:both; height:0px;" :}
 ![VIP Team](../assets/houzelogo.png){: style="float: left; width: 43%; margin-right: 1.5em; margin-top: 1em;" :}
