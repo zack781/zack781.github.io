@@ -31,7 +31,7 @@ _KAIST University_
 
 
 ## Leadership
-{: style="text-align: center; margin-top: 27%;" :}
+{: style="text-align: center; margin-top: 37%;" :}
 
 {: style="clear:both; height:0px;" :}
 ![VIP Team](../assets/houzelogo.png){: style="float: left; width: 43%; margin-right: 1.5em; margin-top: 1em;" :}
@@ -43,7 +43,7 @@ _Lead Engineer_
 {: style="clear:both; height:0px;" :}
 
 ## Academic Excellence
-{: style="text-align: center; margin-top: 34%;" :}
+{: style="text-align: center; margin-top: 37%;" :}
 
 {: style="clear:both; height:0px;" :}
 ![VIP Team](../assets/makerspace.jpg){: style="float: left; width: 43%; margin-right: 1.5em; margin-top: 1em;" :}
