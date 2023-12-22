@@ -18,10 +18,19 @@ I did not have my own computer until I was in 6th grade. When I did have my own 
 
 I have always admired the way in which physical laws and theories come to exist. However, the reason why I decided to do a minor in Applied Physics is not to learn more physics concepts and formulas but to discover how genuine curiosity about nature can lead to profound insights about the universe.
 
+## NYU Global Leaders and Scholars in STEM
+I am very grateful to be a part of the NYU GLobal Leaders and Scholars in STEM (GLASS) program as it has given me many opportunities that would not have been possible otherwise.
+
+Utilizing the GLASS funding, I have managed to attend the 2nd largest C++ conference in the world (Core C++) and the KubeCon Cloud Native conference. Going to these conferences have exposed me to the current state of the art in the C++ programming languages as well as different cloud technology in the world. I also got to meet very technically comptentent engineers who inspired me to become an even better engineer.
+
+I particularly love the GLASS community where I get to learn from the experience of other cohort's members and share memorable time on team building activites. I believe it is important to be aware of the interdisciplinary nature of engineering as no one field of STEM can exist on its own. GLASS gives me the chance to exercise this aspect through its many guest speaking events and its diversed community with members from all different majors.
+
+I have grown both personally and professionally through GLASS. What I am most proud of from my GLASS experience  are the achievements that I have made in pursuing the NAE Grand challenges and the UN Sustainability goals.
+
 ## Fun Facts About Me
 
 In my free time, I enjoy reading Medium articles and watching documentaries.
 
 **_Learn More About My:_**
-[Projects](https://zack781.github.io/myprojects) - [Experience](https://zack781.github.io/myexperience) - [GLASS Components](https://zack781.github.io/glasscomponents)
+[Projects](https://zack781.github.io/myprojects) - [Experience](https://zack781.github.io/myexperience) - [GLASS Components](https://zack781.github.io/glasscomponents) - [GLASS Profile](https://engineering.nyu.edu/student/nguyen)
 
