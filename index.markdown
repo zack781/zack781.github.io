@@ -9,7 +9,7 @@ title: Zack Nguyen
 
 **_Welcome to my e-portfolio_**. This website contains information about my professional experience, past projects, and how I aim to achieve 2 _NAE Grand Challenges_ and the 9th _UN Sustainability Goal_ through the NYU GLASS Program.
 
-[My Resume](https://drive.google.com/file/d/1Uvh6nCAXFoXjKLEknbTJvIeZ1wePR8tZ/view?usp=sharing)
+[My Resume](https://drive.google.com/file/d/1A6arzugyX3aXD-zu3KQ5Gsn4v_jZ4bWE/view?usp=sharing)
 {: style="text-align: center;" :}
 
 ![code1](../assets/korea1.jpg){: style="width: 49%;" :}
