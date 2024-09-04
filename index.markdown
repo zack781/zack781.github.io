@@ -5,6 +5,11 @@
 # layout: home
 layout: page
 title: Zack Nguyen
+carousels:
+  - images:
+    - image: ../assets/linux_cert.png
+    - image: ../assets/rhcsa_cert.png
+    - image: ../assets/ds_cert.png
 ---
 
 **_Welcome to my e-portfolio_**. This website contains information about my professional experience, past projects, and how I aim to achieve 2 _NAE Grand Challenges_ and the 9th _UN Sustainability Goal_ through the NYU GLASS Program.
@@ -12,8 +17,5 @@ title: Zack Nguyen
 [My Resume](https://drive.google.com/file/d/12OEmFOCgV_CW8vuGFBODSnEP-_V1CYfm/view?usp=sharing)
 {: style="text-align: center;" :}
 
-![code1](../assets/korea1.jpg){: style="width: 49%;" :}
-![code2](../assets/korea2.jpg){: style="float:left; width: 49%;" :}
-![code3](../assets/linux_cert.png){: style="float:left; width: 49%;" :}
-![code5](../assets/rhcsa_cert.png){: style="float:right; width: 49%;" :}
-![code4](../assets/ds_cert.png){: style="float:left; width: 49%;" :}
+{% include carousel.html height="50" unit="%" duration="3" number="1" %}
+

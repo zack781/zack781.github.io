@@ -5,10 +5,13 @@ subtitle: NYU '25, Computer Engineer
 permalink: /aboutme/
 ---
 
+{: style="clear:both; height:0px;" :}
+![NYU IT HSRN](../assets/vinuni.jpg){: style="margin-right: 3%; margin-top: 3%; float: left;" :}
 ## Who I Am
-
+{: style="margin: 0rem;" :}
 A driven and passionate engineer in the making at NYU, pursuing a major in _Computer Engineering_ with a minor in _Applied Physics_. My interest lies in real-time application, cloud computing, and networking. I am aspired to build new technology that can make the world a better place. 
-
+{: style="margin: 0rem;" :}
+{: style="margin-bottom: 2em;" :}
 
 ## Why I Chose Compute Engineering
 

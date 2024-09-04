@@ -7,7 +7,21 @@ permalink: /myexperience/
 
 --
 {: style="clear:both; height:0px;" :}
-![VIP Team](../assets/vip2022.jpg)
+![NYU IT HSRN](../assets/amat.png)
+## Applied Materials
+**_Embedded Engineering Intern_**
+{: style="margin: 0rem;" :}
+Rochester, NY, US
+{: style="margin: 0rem;" :}
+_May 2024 - August 2024_
+{: style="margin: 0rem;" :}
+
+[_More details_](http://appliedmaterials.com)
+{: style="margin-top: 0.5em;" :}
+
+--
+{: style="clear:both; height:0px;" :}
+![VIP Team](../assets/hsrn_vip.png)
 ## NYU IT HSRN
 **_Software Developer_**
 {: style="margin: 0rem;" :}
@@ -34,17 +48,3 @@ _June 2023 - December 2023_
 [_More details_](https://www.rakuna.co)
 {: style="margin-top: 0.5em;" :}
 
---
-{: style="clear:both; height:0px;" :}
-
-![TCOP Team](../assets/houzewaitlist.png)
-## Houze.me
-**_Cofounder_**
-{: style="margin: 0rem;" :}
-New York, NY, US
-{: style="margin: 0rem;" :}
-_August 2023 - Present_
-{: style="margin: 0rem;" :}
-
-[_More details_](https://www.linkedin.com/feed/update/urn:li:activity:7131315251291017216?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7131315251291017216%29)
-{: style="margin-top: 0.5em;" :}

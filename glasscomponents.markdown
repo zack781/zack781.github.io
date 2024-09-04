@@ -27,6 +27,14 @@ My GLASS profile: [Link](https://engineering.nyu.edu/student/nguyen)
 
 _KAIST University_
 
+--
+{: style="clear:both; height:0px;" :}
+![VIP Team](../assets/vinuni_group4.jpg){: style="float: left; width: 43%; margin-right: 1.5em; margin-top: 1em;" :}
+
+**Digital Twin to Tackle Sustainable Development in Hanoi, Vietnam**
+
+_Vin University_
+
 {: style="clear:both; height:0px;" :}
 
 
@@ -34,16 +42,16 @@ _KAIST University_
 {: style="text-align: center; margin-top: 31%;" :}
 
 {: style="clear:both; height:0px;" :}
-![VIP Team](../assets/houzelogo.png){: style="float: left; width: 43%; margin-right: 1.5em; margin-top: 1em;" :}
+![VIP Team](../assets/AES.png){: style="float: left; width: 43%; margin-right: 1.5em; margin-top: 1em;" :}
 
-**Founded Houze, a housing platform for students**
+**Led a research group to write an express paper for the AES NY 2024 conference**
 
 _Lead Engineer_
 
 {: style="clear:both; height:0px;" :}
 
 ## Academic Excellence
-{: style="text-align: center; margin-top: 37%;" :}
+{: style="text-align: center; margin-top: 25%;" :}
 
 {: style="clear:both; height:0px;" :}
 ![VIP Team](../assets/makerspace.jpg){: style="float: left; width: 43%; margin-right: 1.5em; margin-top: 1em;" :}
@@ -58,8 +66,9 @@ _Researched and Prototyped a smart and portable cooling pad for laptops_
 {: style="text-align: center; margin-top: 31%;" :}
 
 {: style="clear:both; height:0px;" :}
-![VIP Team](../assets/kaist.jpg){: style="float: left; width: 43%; margin-right: 1.5em; margin-top: 1em;" :}
+![VIP Team](../assets/glassbg.jpg){: style="float: left; width: 43%; margin-right: 1.5em; margin-top: 1em;" :}
 
+**GLASS Working Group**
 
 
 {: style="clear:both; height:0px;" :}

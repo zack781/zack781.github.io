@@ -2,6 +2,14 @@
 layout: post
 title: Projects
 subtitle: Things I recently worked on
+carousels-corelink-audio:
+  - images:
+    - image: ../assets/audio1.jpg
+    - image: ../assets/audio2.png
+    - image: ../assets/audio3.png
+    - image: ../assets/audio4.png
+    - image: ../assets/audio5.png
+    - image: ../assets/audio6.jpg
 permalink: /myprojects/
 ---
 
@@ -26,13 +34,12 @@ All my projects belong to one of these categories:
 
 **Link to Project:** [https://github.com/zack781/corelink-audio](https://github.com/zack781/corelink-audio)
 
-![code1](../assets/audio1.jpg){: style="width: 45%;" :}
-![code2](../assets/audio2.png){: style="float:left; width: 45%;" :}
-![code3](../assets/audio3.png){: style="float:left; width: 45%;" :}
-![code4](../assets/audio4.png){: style="float:right; width: 45%;" :}
-![code4](../assets/audio5.png){: style="float:right; width: 45%;" :}
-![code4](../assets/audio6.jpg){: style="float:left; width: 45%;" :}
-![code4](../assets/audio7.png){: style="float:right; width: 45%;" :}
+{% include carousel_audio.html height="75" unit="%" duration="3" number="1" %}
+
+Corelink Audio is a novel Networked Music Performance (NMP) solution designed to address the limitations of versatility and ease of use in existing NMP systems while maintaining high-fidelity audio and minimal latency.
+
+At the heart of Corelink Audio is the Corelink network framework, a server-based system that manages routing for various network topologies, including pipelines, broadcasts, and multicasts. Corelink's relay architecture allows for high-level routing across the internet, making it possible to manage complex audio setups with ease. For instance, a band with multiple members can have independent channels dedicated to each musician, facilitating personalized audio mixes. Corelink's data agnostic and platform neutral characteristic allows for complex multi-modal topology between different data types like audio, video, and motion capture data. Corelink Audio is aimed to be an utility of the NYU High-Speed Research Network (HSRN), a high bandwidth low latency network infrastructure dedicated to academic purposes, supporting researchers with real-time audio applications.
+
 
 {: style="clear:both;" :}
 
@@ -40,10 +47,18 @@ All my projects belong to one of these categories:
 
 **Link to Project:** [https://github.com/zack781/speech_to_text_server](https://github.com/zack781/speech_to_text_server/tree/main/backend)
 
-![code1](../assets/glass1.jpg){: style="width: 45%;" :}
-![code2](../assets/glass2.jpg){: style="float:left; width: 45%;" :}
-![code3](../assets/glass3.png){: style="float:left; width: 45%;" :}
-![code4](../assets/glass4.jpg){: style="float:right; width: 45%;" :}
+![code1](../assets/glass1.jpg){: style="width: 100%;" :}
+
+{: style="clear:both; height:0px;" :}
+![NYU IT HSRN](../assets/glass3.png){: style="width: 45%; margin: 1%;" :}
+{: style="clear:both; height:0px;" :
+{: style="margin: 0rem;" :}
+Rapid Assembly and Design Challenge (RAD)
+
+There are 2 components to this device the glass and the server. The glass has a monitor which is handled by the Arduino UNO over I2C and the audio is handled by the ESP32 which is connected to wireless internet to send requests to the server containing the audio data for speech to text conversion. The server is a Flask server that uses the SciPy Speech to Text API to convert the audio to text and send it back to the glass for display.
+
+The goal of the project is to assist individuals with hearing difficulty by providing real-time subtitles for conversations. The device is designed to be lightweight and portable, making it easy to use in a variety of settings. The glasses are equipped with a small monitor that displays the text in real-time, allowing users to follow along with the conversation.
+{: style="margin: 0rem;" :}
 
 {: style="clear:both;" :}
 
