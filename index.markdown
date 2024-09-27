@@ -14,7 +14,7 @@ carousels:
 
 **_Welcome to my e-portfolio_**. This website contains information about my professional experience, past projects, and how I aim to achieve 2 _NAE Grand Challenges_ and the 9th _UN Sustainability Goal_ through the NYU GLASS Program.
 
-[My Resume](https://drive.google.com/file/d/12OEmFOCgV_CW8vuGFBODSnEP-_V1CYfm/view?usp=sharing)
+[My Resume](https://drive.google.com/file/d/1fVZEnHWXh2FORcvz62qtzmLOBq6pPjmt/view?usp=sharing)
 {: style="text-align: center;" :}
 
 {% include carousel.html height="50" unit="%" duration="3" number="1" %}
