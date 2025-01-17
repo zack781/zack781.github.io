@@ -38,6 +38,7 @@ navbar-links:
   About Me: "aboutme"
   Experience: "myexperience"
   Projects: "myprojects"
+  Hardware Projects: "hwprojects"
   GLASS Components: "glasscomponents"
 
 avatar: "assets/Zack_Nguyen.png"
