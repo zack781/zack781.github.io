@@ -14,7 +14,7 @@ carousels:
     - image: ../assets/ds_cert.png
 ---
 
-[My Resume](https://drive.google.com/file/d/1xNRoBi_megbeoECsM6Iz2MKVnC9ICHlF/view?usp=share_link)
+[My Resume](https://drive.google.com/file/d/1QxKfSGZ71jcgOL-huz6_1L1q_HbEOQn3/view?usp=sharing)
 {: style="text-align: center;" :}
 
 
