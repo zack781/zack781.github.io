@@ -8,6 +8,7 @@ title: 👋 Hi, I'm Zack
 subtitle: NYU '25, Computer Engineer
 carousels:
   - images:
+    - image: ../assets/arm-comp-arch.png
     - image: ../assets/ckad_cert.png
     - image: ../assets/linux_cert.png
     - image: ../assets/rhcsa_cert.png
@@ -27,8 +28,7 @@ Robotics Solutions for Global Educational Infrastructure"](https://www.overleaf.
 {: style="clear:both; height:0px;" :}
 ![NYU IT HSRN](../assets/vinuni.jpg){: style="margin-right: 3%; margin-top: 3%; float: left; width: 49%;" :}
 ## My Mission Statement
-A driven and passionate engineer in the making at NYU, pursuing a major in _Computer Engineering_ with a minor in _Applied Physics_. My love for music coupled with my extensive background in software development has led me to my work at NYU High-Speed Research Network (HSRN), where I am currently working on a project that aims to develop a real-time audio processing system for live music performances. My goal is to create a system that can process and manipulate audio signals in real-time, allowing musicians to perform with greater flexibility and creativity. My next goal is to build expertise in the field of digital/analog system design and apply it to the field of music technology. More specifically, I hope to contribute to SoC systems with impacts on advanced real-time applications.
-
+I'm pursuing a Masters of Engineering in ECE at Cornell. I had a BS in Computer Engineering with a minor in Applied Physics from NYU. My interest lies in real-time applications, DSP, networked multimedia, computer architecture, and accelerated computing. I aspire to build new technology that amplifies creativity, research collaboration, and human connection.
 
 
 {: style="margin: 0rem;" :}
