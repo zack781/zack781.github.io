@@ -5,6 +5,7 @@
 # layout: home
 layout: page
 title: 👋 Hi, I'm Zack
+subtitle: Cornell MEng ECE
 subtitle: NYU '25, Computer Engineer
 carousels:
   - images:
