@@ -18,11 +18,6 @@ carousels:
 [My Resume](https://drive.google.com/file/d/1QxKfSGZ71jcgOL-huz6_1L1q_HbEOQn3/view?usp=sharing)
 {: style="text-align: center;" :}
 
-
-[GLASS Final Paper: "Bridging the Divide: Real-Time Communication and
-Robotics Solutions for Global Educational Infrastructure"](https://www.overleaf.com/read/swjqtqbggkyz#786140)
-{: style="text-align: center;" :}
-
 {% include carousel.html height="70" unit="%" number="1" %}
 
 {: style="clear:both; height:0px;" :}
@@ -48,6 +43,11 @@ I love listening to music, playing the guitar, and singing. I am also a big fan 
 
 
 {: style="clear:both;" :}
+
+[GLASS Final Paper: "Bridging the Divide: Real-Time Communication and
+Robotics Solutions for Global Educational Infrastructure"](https://www.overleaf.com/read/swjqtqbggkyz#786140)
+{: style="text-align: center;" :}
+
 
 ## NYU Global Leaders and Scholars in STEM
 
