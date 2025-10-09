@@ -44,12 +44,13 @@ I love listening to music, playing the guitar, and singing. I am also a big fan 
 
 {: style="clear:both;" :}
 
+
+## NYU Global Leaders and Scholars in STEM
+
 [GLASS Final Paper: "Bridging the Divide: Real-Time Communication and
 Robotics Solutions for Global Educational Infrastructure"](https://www.overleaf.com/read/swjqtqbggkyz#786140)
 {: style="text-align: center;" :}
 
-
-## NYU Global Leaders and Scholars in STEM
 
 I am a member of the NYU Global Leaders and Scholars in STEM (GLASS) 2022 cohort program.
 

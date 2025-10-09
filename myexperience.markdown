@@ -30,7 +30,7 @@ _May 2024 - August 2024_
 {: style="margin: 0rem;" :}
 New York, NY, US
 {: style="margin: 0rem;" :}
-_June 2022 - Present_
+_June 2022 - May 2025_
 {: style="margin: 0rem;" :}
 
 <details>
@@ -54,7 +54,7 @@ _June 2023 - December 2023_
 <details>
   <summary>More Details</summary>
 
-As a Software Developer at NYU Research Technology’s High-Speed Research Network (HSRN) in Brooklyn, NY, since June 2022, I have contributed to advancing networked audio and real-time data management. I developed a C++ JUCE-based audio plugin utilizing WebSockets and UDP to enable seamless audio transport for over 100 attendees at the 2023 TURN UP Multimedia concert. Additionally, I optimized Corelink’s access control system using Knex.js, enhancing its security and real-time data management capabilities. To expand Corelink’s functionality, I integrated plugin support, enabling greater flexibility for diverse real-time applications in research and development. My contributions also extended to securing research funding, where I played a role in grant proposals, successfully obtaining $2,500 in awards from the NYU Dean's Undergraduate Research Fund.
+As a Real-time Multimedia Systems Researcher at NYU Research Technology’s High-Speed Research Network (HSRN) in New York, from 2022 to 2025, I have contributed to advancing networked audio and real-time data management. I developed a C++ JUCE-based audio plugin utilizing WebSockets and UDP to enable seamless audio transport for over 100 attendees at the 2023 TURN UP Multimedia concert. Additionally, I optimized Corelink’s access control system using Knex.js, enhancing its security and real-time data management capabilities. To expand Corelink’s functionality, I integrated plugin support, enabling greater flexibility for diverse real-time applications in research and development. My contributions also extended to securing research funding, where I played a role in grant proposals, successfully obtaining $2,500 in awards from the NYU Dean's Undergraduate Research Fund.
 </details>
 {: style="margin-top: 0.5em;" :}
 
