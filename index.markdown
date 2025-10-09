@@ -37,7 +37,7 @@ I'm pursuing a Masters of Engineering in ECE at Cornell. I had a BS in Computer 
 {: style="clear:both;" :}
 
 ## My Technical Interests
-I am interested in real-time applications development, network programming, lately digital/analog system design.
+I am conducting research in tiered memory expansion and system performance modeling with Professor Jiaxin Lin at the Cornell Computer Systems Laboratory. My goal is to advance hardware–software co-design for data-centric systems and address the memory wall challenges posed by increasingly large LLMs and inference workloads.
 
 {: style="margin: 0rem;" :}
 
